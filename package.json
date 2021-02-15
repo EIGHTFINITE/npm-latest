@@ -1,0 +1,14 @@
+{
+  "name": "npm-latest",
+  "version": "0.0.0-latest",
+  "description": "Depends on the latest version of npm to add it to the pool of dependencies even if your project already depends on another version of npm",
+  "author": "EIGHTFINITE",
+  "license": "MIT-0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EIGHTFINITE/npm-latest.git"
+  },
+  "dependencies": {
+    "npm": "latest"
+  }
+}
